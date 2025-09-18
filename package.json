@@ -1,0 +1,16 @@
+{
+  "name": "teamzone-coin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^3.0.0",
+    "@openzeppelin/contracts": "^4.9.0",
+    "chai": "^4.3.7",
+    "ethers": "^6.0.0",
+    "hardhat": "^2.14.0"
+  }
+}
