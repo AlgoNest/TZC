@@ -1,6 +1,6 @@
 # TeamZone Coin (TZC)
 
-TeamZone Coin (TZC) is the **demo SaaS token** for the TeamZone ecosystem.  
+TeamZone Coin (TZC) is the **SaaS token** for the TeamZone ecosystem.  
 It represents the idea of having a native cryptocurrency that powers TeamZone’s SaaS platform — built on top of blockchain technology.  
 
 This repo is **not about launching a coin right now**. Instead, it provides a **minimal yet professional ERC-20 project** to showcase the concept, serve as a proof-of-work for our vision, and demonstrate our technical foundation.
